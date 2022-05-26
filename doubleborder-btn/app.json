@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "doubleborder-btn",
+    "slug": "doubleborder-btn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
